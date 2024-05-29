@@ -1,4 +1,4 @@
-#compsci-projects - README
+# compsci-projects - README
 
 **Description:**
 Welcome to the compsci-projects repository! This repository serves as a collection of computer science projects and algorithms implemented in Python. Whether you're a student learning computer science concepts or an enthusiast exploring algorithms, you'll find a variety of projects and resources here to aid your learning journey.

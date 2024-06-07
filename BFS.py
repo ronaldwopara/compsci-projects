@@ -17,7 +17,7 @@ def bfs(root_node, goal_value):
         for child in current_node.children:
             new_path = current_path.copy()
             new_path.append(child)
-            path_queue.appendleft(new_path)
+            path_queue.appendleft(new_path) # Whatever child thats added goes to the left of the first one. (IMPORTANT), Uses the first in first out protocol (FIFO)
 
     return None
 
